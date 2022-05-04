@@ -1,0 +1,6 @@
+version: "2"
+services:
+  term:
+    container_name: hello_echo 
+    build: cli 
+    
